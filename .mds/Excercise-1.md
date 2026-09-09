@@ -1,0 +1,6 @@
+print("JOHN CARLO A. ILAGAN")
+print("BS in Computer Engineering")
+print("2nd Year")
+print("Chess, Sekiro, Elden Ring")
+print("Data Structures and Algorithms")
+print("I am learning Python")
